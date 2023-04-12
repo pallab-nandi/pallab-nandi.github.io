@@ -1,10 +1,11 @@
 .home__container {
   row-gap: 7rem;
+  padding-bottom: 7.5rem;
 }
 
 .home__content {
   grid-template-columns: 116px repeat(2, 1fr);
-  padding-top: 5.5rem;
+  padding-top: 9.2rem;
   column-gap: 2rem;
   align-items: center;
 }
@@ -28,15 +29,8 @@
 
 
 .home__title {
-  font-size: 3rem;
+  font-size: 3.5rem;
   margin-bottom: var(--mb-0-25);
-}
-
-
-.home__hand {
-  width: 38px;
-  height: 38px;
-  margin-left: 0.4rem;
 }
 
 .home__subtitle {
@@ -125,15 +119,11 @@
   .home__content {
     grid-template-columns: 100px repeat(2, 1fr);
     column-gap: 1.25rem;
+    padding-top: 5.5rem;
   }
 
   .home__title {
     font-size: 2.3rem;
-  }
-
-  .home__hand {
-    width: 26px;
-    height: 26px;
   }
 
   .home__subtitle {
@@ -198,10 +188,5 @@
 
   .home__title {
     font-size: 1.8rem;
-  }
-
-  .home__hand {
-    width: 22px;
-    height: 22px;
   }
 }
