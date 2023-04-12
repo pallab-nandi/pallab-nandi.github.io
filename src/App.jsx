@@ -9,6 +9,7 @@ import { Qualification } from './components/qualification/Qualification'
 import { Project } from './components/projects/Project'
 import { Testimonial } from './components/testimonial/Testimonial'
 import { Contact } from './components/contact/Contact'
+import { Footer } from './components/footer/Footer'
 
 function App() {
   return (
@@ -25,6 +26,8 @@ function App() {
         {/* <Testimonial /> */}
         <Contact />
       </main>
+
+      <Footer />
     </>
   )
 }
