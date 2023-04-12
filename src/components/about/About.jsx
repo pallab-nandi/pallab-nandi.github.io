@@ -15,7 +15,7 @@ export const About = () => {
         <div className="about__data">
           <Info />
 
-          <p className="about__description">I am a software developer and a math enthusiast with a passion for creating innovative and user-friendly solutions.I enjoy working in agile teams and collaborating with other developers and clients to deliver high-quality products that meet their needs and expectations. I am always eager to learn new skills and tools to improve my performance and expand my knowledge.</p>
+          <p className="about__description">I am a software developer and a math enthusiast with a passion for creating innovative and user-friendly solutions. I enjoy working in agile teams and collaborating with other developers and clients to deliver high-quality products that meet their needs and expectations. I am always eager to learn new skills and tools to improve my performance and expand my knowledge.</p>
 
           <a download="" href={resume} className="button button--flex">Download Resume
             <svg

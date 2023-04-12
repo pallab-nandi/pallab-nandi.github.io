@@ -77,22 +77,22 @@ export const Services = () => {
               <ul className="services__model-services grid">
                 <li className="services__model-service">
                   <i className="uil uil-check-circle services__model-icon"></i>
-                  <p className="services__model-info">I Implemente authentication, authorization, and security features for user accounts and data</p>
+                  <p className="services__model-info">Implemente authentication, authorization, and security features for user accounts and data</p>
                 </li>
 
                 <li className="services__model-service">
                   <i className="uil uil-check-circle services__model-icon"></i>
-                  <p className="services__model-info">I create and maintain APIs using Node.js and Express.js</p>
+                  <p className="services__model-info">create and maintain APIs using Node.js and Express.js</p>
                 </li>
 
                 <li className="services__model-service">
                   <i className="uil uil-check-circle services__model-icon"></i>
-                  <p className="services__model-info">I Develope microservice for an application</p>
+                  <p className="services__model-info">Develope microservice for an application</p>
                 </li>
 
                 <li className="services__model-service">
                   <i className="uil uil-check-circle services__model-icon"></i>
-                  <p className="services__model-info">I Deploy and maintain backend applications</p>
+                  <p className="services__model-info">Deploy and maintain backend applications</p>
                 </li>
               </ul>
             </div>

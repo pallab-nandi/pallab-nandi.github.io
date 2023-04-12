@@ -27,6 +27,10 @@
 
 .qualification__active {
   color: var(--title-color-dark);
+  text-decoration: underline;
+  text-underline-position: under;
+  text-decoration-style: wavy;
+  text-underline-offset: 0.2em;
 }
 
 .qualification__sections {
