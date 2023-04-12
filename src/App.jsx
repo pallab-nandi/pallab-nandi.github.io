@@ -10,6 +10,7 @@ import { Project } from './components/projects/Project'
 import { Testimonial } from './components/testimonial/Testimonial'
 import { Contact } from './components/contact/Contact'
 import { Footer } from './components/footer/Footer'
+import { Scrollup } from './components/scrollup/Scrollup'
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
       </main>
 
       <Footer />
+      <Scrollup />
     </>
   )
 }
